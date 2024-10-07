@@ -1,0 +1,59 @@
+﻿@model IEnumerable<HospitalManagement.Models.HospitalModel.RendezVous>
+
+@{
+    ViewData["Title"] = "SearchByDate";
+}
+
+<h1>SearchByDate</h1>
+<form asp-action="SearchByDate" method="get">
+    <div class="form-group">
+        <label for="selectedDate">Sélectionnez une date :</label>
+        <input type="date" name="selectedDate" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Rechercher</button>
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateRendezVous)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Motif)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Patient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Medecin)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateRendezVous)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Motif)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Adresse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medecin.Adresse)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

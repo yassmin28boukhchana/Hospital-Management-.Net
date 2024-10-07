@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospitalManagement
+build_property.RootNamespace = HospitalManagement
+build_property.ProjectDir = C:\Users\boukh\Desktop\HospitalManagement\HospitalManagement\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\boukh\Desktop\HospitalManagement\HospitalManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/SearchByDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxTZWFyY2hCeURvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/DossiersMedicaux/SearchByPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zc2llcnNNZWRpY2F1eFxTZWFyY2hCeVBhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/MesPatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcTWVzUGF0aWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/SearchBy2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcU2VhcmNoQnkyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/SearchbyAdresse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcU2VhcmNoYnlBZHJlc3NlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Medecins/SearchbySpeciality.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkZWNpbnNcU2VhcmNoYnlTcGVjaWFsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/MesDossiersMedicaux.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcTWVzRG9zc2llcnNNZWRpY2F1eC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/SearchBy2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcU2VhcmNoQnkyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/SearchbyName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcU2VhcmNoYnlOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Patients/SearchbySurname.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcU2VhcmNoYnlTdXJuYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/RendezVous/SearchByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVuZGV6Vm91c1xTZWFyY2hCeURhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boukh/Desktop/HospitalManagement/HospitalManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ljvfyrkojo
